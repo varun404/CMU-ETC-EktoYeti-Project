@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/YetiWalkingOnIce/Scenes/CreditsScene.unity
+    guid: b4eb93d9eb70eae4d98afc1c594b0eaa
+  - enabled: 1
+    path: Assets/YetiWalkingOnIce/Scenes/InstructionsScene.unity
+    guid: 7ea79defe8f4b0a40bf832ce791b6dd9
+  - enabled: 1
+    path: Assets/YetiWalkingOnIce/Scenes/demoScene_free.unity
+    guid: 7769f33fb4fa2e5458344a36556ad760
+  - enabled: 1
+    path: Assets/YetiWalkingOnIce/Scenes/GameOverScene.unity
+    guid: 367efcebeab6da9428a3c13f163ba7d6
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 3e8f502ba1f71204a841c92e3f017c6a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 35c265e2ce48cb641b66d5868f555733, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 905675bc086f4b14f863ce336b42495b, type: 2}
